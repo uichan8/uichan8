@@ -1,29 +1,49 @@
-# 김의찬
- 
-### 2017년
- - 국민대학교 나노전자물라학과 입학
- 
-### 2020년
- - 전자공학부 전자시스템학과로 전부
- - 6sigma 그린벨트 수료
- - C
+# 김의찬 (Ui-chan Kim)
+<img src="https://publish-01.obsidian.md/access/62f81b102e5c07cf783dcfe853c3723f/imgs/icon.png" alt="uichan" width="300" height="300">
 
-### 2021년
- - 유레카 프로젝트 조장(2학기)
- - 국민대 AI연구실 지원
- - python
+## Comment
+질문과 의견은 언제든 환영입니다! 언제든 연락주세요~  
+Questions and feedback are always welcome! Please feel free to contact.
+
+## Contact & Channels
+-  Email  : 
+	- uichan8\@naver.com
+	- uichan980202\@gmail.com<br>
  
-### 2022년
- - 창업 연계 공학 설계 조장(1학기)
- - 캡스톤 디자인 설계 조장(1학기)
- - 대한전기학회 제53회 하계학술대회 제13회 스마트 에너지 경진대회 금상 수상 [KMU 소식](https://www.kookmin.ac.kr/comm/board/user/be8e117863cfd580d7ed5931a799207c/view.do?dataSeq=1074042)
- - C++
- - AIhub 객체인식대회 최우수상 수상
- - 국민대학교 졸업  
-   - 전공 : 전자시스템공학  
-   - 부전공 : 나노전자물리  
+-  Github : 
+	- https://github.com/uichan8<br>
  
- ### 2023년
-   - 국민대학교 대학원 전자공학부 입학
-   
+- Lab homepage:
+	- https://www.ailab.kookmin.ac.kr/
+	
+- blog :
+	- [기술 블로그](https://publish.obsidian.md/uichan980202/Introduction)
+	- [독서록 블로그](https://merciful-tote-257.notion.site/4a0be5532b4a4e6ab808ca900b4bee1b?pvs=4)
+	- [여행 블로그]()
+ 
+## Education
+### Kookmin University
+- 2017  | 나노전자물리학과 입학
+- 2020 | 전자공학부 전자시스템공학 전부
+- 2021  | 전자공학부 AI연구실 학부연구생
+- 2023 | 학부 졸업 (전공 : 전자시스템공학, 부전공 : 나노전자물리학부)
+- 2023 | 전자공학부 대학원 석사과정 진학
+
+## Skills
+- Programming Language
+	- C/C++
+	- Python
+		- Pytorch
+		  
+- Development Tools
+	- Git
+	- Docker
+	- Weights & Biases
+	  
+- Device & OS
+	- raspberry pi (ubuntu,  rasbian)
+	- NCS2
+	- Mac
+	- Ubuntu
+	- Windows
 
